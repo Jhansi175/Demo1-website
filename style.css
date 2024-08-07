@@ -1,0 +1,77 @@
+.nav-link{
+    color: rgb(10, 10, 94);
+}
+.nav-link:hover{
+    color: red;
+    transition:0.3s;
+}
+
+.nav-item{
+    color: rgb(7,7,78);
+    font-weight: 500;
+    padding-left: 35px;
+}
+.btn0{
+    height: 52px;
+    width:130px;
+    outline:none;
+    border:none;
+    color:white;
+    cursor:pointer;
+    transition: all o.4s;
+    background-color: rgb(248,83,83);
+
+}
+.btn0:hover{
+    background-color: rgb(214,11,11);
+    transition: all o.4s;
+}
+.btn1{
+    height: 52px;
+    width:130px;
+    outline:none;
+    background-color: transparent;
+    color:rgb(248,20,20);
+    outline: none;
+    border: 2px solid rgb(248,20,20) ;
+
+}
+.btn1:hover{
+    background-color:rgb(214,11,11) ;
+    transition: all 0.4s;
+    color:white;
+    border: none;
+    outline: none;
+
+}
+.dropdown-item{
+    outline:none;
+    border:none;
+    color:rgb(10, 10, 94);
+    cursor:pointer;
+    transition: all o.4s;
+    background-color:white;
+    font-weight: 500;
+
+}
+.dropdown-item:hover{
+    background-color:rgb(214,11,11) ;
+    transition: all 0.4s;
+    color:white;
+    border: none;
+    outline: none;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+.portfolio{
+    color:red;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+
+        
